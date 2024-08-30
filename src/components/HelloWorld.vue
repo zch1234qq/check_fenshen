@@ -1,6 +1,7 @@
 <template>
   <div style="display: flex;flex-direction: column;justify-content: flex-end;align-items: center;width: 100%;height: 100%;">
-    <a href="https://beian.miit.gov.cn">辽ICP备2023005458号</a>
+    <a href="https://beian.miit.gov.cn">辽ICP备2024038272号</a>
+    <!-- <a href="https://beian.mps.gov.cn/#/query/webSearch">辽公网安备21110202001007号</a> -->
   </div>
 </template>
 
